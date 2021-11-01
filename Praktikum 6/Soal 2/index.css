@@ -1,0 +1,110 @@
+body {
+    background-image: url(background.jpg);
+    font-family: 'Mulish', sans-serif;
+    line-height: 1.5;
+    color: black;
+}
+h1 {
+    text-align: center;
+    color:rgb(62, 56, 159);
+}
+input.ipt{
+    background: none;
+    border: none;
+    border-bottom: 1px solid grey;
+    margin-bottom: 20px;
+    width : 220px;
+    outline-width: 0cm;
+    opacity: 70%;
+    
+}
+#z {
+    background-color: rgba(200, 214, 229,0.8);
+    width: 350px;
+    height: 620px;
+
+}
+#y {
+    
+    background-color: rgba(220, 221, 225,0.8);
+    width: 350px;
+    position: relative;
+    left: 350px;
+    bottom: 620px ;
+    height: 620px;
+    
+}
+h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: black;
+}
+label {
+    margin-left: 50px;
+    opacity: 70%;
+   
+}
+input {
+    margin-left: 50px;
+}
+#a {
+
+    margin: auto;
+    width: 700px;
+}
+input[type=submit]{
+    margin-top: 10px;
+    margin-left: 0cm;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 70px;
+    border-style: none;
+    background-color:  #2ed573;
+    color: white;
+    transition: 0.3s;
+}
+#dd:hover{
+    
+    border: 1px solid #2ed573;
+    background-color: unset;
+    color :#2ed573;
+}
+#aa:hover{
+    border: 1px solid  #38ada9;
+    background-color: unset;
+    color: #38ada9;
+    
+}
+#aa{
+    background-color:#38ada9;
+    color: white;  
+    width: 190px;
+}
+#gender2 {
+    margin-left: 10px;
+}
+form.o {
+    padding-top: 100px;
+    opacity: 70%;
+}
+form.i {
+    padding-top: 10px;
+    opacity: 70%;
+}
+#dd {
+    margin-top: 50px;
+    width: 190px;
+}
+#ee {
+    margin-bottom: 30px;
+}
+a {
+    text-decoration: none;
+    margin-left: 100px;
+}
+#q {
+    margin-right: 90px;
+    margin-left: 70px;
+} 
